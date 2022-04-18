@@ -1,2 +1,2 @@
-# portal
-into another dimension
+# fantom
+a sci-fi text adventure game
